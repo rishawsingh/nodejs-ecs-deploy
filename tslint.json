@@ -1,0 +1,19 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint-config-prettier"
+    ],
+    "jsRules": {},
+    "rules": {
+        "trailing-comma": [ false ],
+        "no-console": false,
+        "quotemark": [
+            true,
+            "single"
+        ],
+        "class-name": false,
+        "no-empty": false
+    },
+    "rulesDirectory": []
+}
